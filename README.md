@@ -2,17 +2,17 @@
   <h1>Handsfree Rummy</h1>
   <a>
     <img
-      src="https://img.shields.io/github/languages/code-size/maxkopitz/handsfreerummy"
+      src="https://img.shields.io/github/languages/code-size/prisharpatel/handsfreerummy"
       alt="Repository code size" />
   </a>
   <a href="https://github.com/maxkopitz/handsfree/">
     <img
-      src="https://img.shields.io/github/issues/maxkopitz/handsfreerummy"
+      src="https://img.shields.io/github/issues/prisharpatel/handsfreerummy"
       alt="Respository count of issues open" />
   </a>
   <a>
     <img
-      src="https://img.shields.io/github/stars/maxkopitz/handsfreerummy"
+      src="https://img.shields.io/github/stars/prisharpatel/handsfreerummy"
       alt="Repository count of stars" />
   </a>
 </div>

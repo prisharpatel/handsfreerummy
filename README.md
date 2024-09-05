@@ -30,7 +30,7 @@ Setup
 --------
 Clone the repository
 ```sh
-git clone https://github.com/maxkopitz/handsfreerummy
+git clone https://github.com/prisharpatel/handsfreerummy
 ```
 
 ## Setup `.env`

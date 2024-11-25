@@ -5,7 +5,7 @@
       src="https://img.shields.io/github/languages/code-size/prisharpatel/handsfreerummy"
       alt="Repository code size" />
   </a>
-  <a href="https://github.com/maxkopitz/handsfree/">
+  <a href="https://github.com/prisharpatel/handsfreerummy/">
     <img
       src="https://img.shields.io/github/issues/prisharpatel/handsfreerummy"
       alt="Respository count of issues open" />

@@ -8,12 +8,12 @@
   <a href="https://github.com/prisharpatel/handsfreerummy/">
     <img
       src="https://img.shields.io/github/issues/prisharpatel/handsfreerummy"
-      alt="Respository count of issues open" />
+       />
   </a>
   <a>
     <img
       src="https://img.shields.io/github/stars/prisharpatel/handsfreerummy"
-      alt="Repository count of stars" />
+       />
   </a>
 </div>
 <br />

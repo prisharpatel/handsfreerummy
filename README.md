@@ -20,7 +20,7 @@
 
 Installation
 -------
-Before installng make sure you have the following
+Before installing make sure you have the following
 - [Docker](https://docs.docker.com/desktop/)
 - Node v21.6.1, we use [nvm](https://github.com/nvm-sh/nvm) to get correct verison
 
